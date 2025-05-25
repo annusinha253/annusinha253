@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
+
+ ![logo]( https://github.com/annusinha253/annusinha253/blob/main/Colorful%20geometric%20Designer%20LinkedIn%20Banner.png?raw=true)
 <h2 align="left">Hi 👋! I am Annu from the Code Matrixz</h2>
 
 ###
