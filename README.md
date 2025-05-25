@@ -211,12 +211,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=annusinha253&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annusinha253&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<h3 align="left">Trophies:</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=annusinha253" alt="GitHub Trophies for annusinha253" />
-  </a>
-</p>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=annusinha253&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
