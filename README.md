@@ -219,6 +219,14 @@ Here are some ideas to get you started:
 </p>
 
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=annusinha253&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ###
 
 <br clear="both">
